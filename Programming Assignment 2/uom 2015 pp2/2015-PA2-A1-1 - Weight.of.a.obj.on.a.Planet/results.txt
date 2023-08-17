@@ -1,0 +1,4 @@
+mass in Tantalus         weight is 434.46734408624565 N
+mass in Reach            weight is 1059.5355051123586 N
+mass in Circumstance     weight is 476.44110688758576 N
+mass in Tribute          weight is 343.11733328824374 N

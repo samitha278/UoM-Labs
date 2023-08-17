@@ -1,0 +1,6 @@
+int
+int
+float
+text
+date
+text
